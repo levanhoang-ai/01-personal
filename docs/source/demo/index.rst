@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Welcome!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
@@ -13,12 +13,10 @@ how to :ref:`installation` the project.
 
    This project is under active development.
 
-Contents
+Test
 --------
 
 .. toctree::
    :maxdepth: 2
 
-   usage
-   api
-   demo/index
+   test
